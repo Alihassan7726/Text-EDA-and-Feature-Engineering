@@ -1,1 +1,1 @@
-# Text-EDA-and-Feature-Engineering
+This Repository contains all the techniques in order to perform EDA and Feature Engineering on text data . This repo contains notebooks for various methods used to extract meaningfull patterns and insights out ot raw text like WordCloud, TopicModeling, NER, Finding Characteristics Terms in Text, N-Grams and much more .. 
